@@ -1,2 +1,5 @@
 # php-framework-patterns
-Framework Patterns , Description In PHP.
+框架模式，以PHP描述。
+
+
+
